@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página con Botones</title>
+</head>
+<body>
+
+    <h1>Bienvenido a mi Página</h1>
+
+    <button onclick="mostrarHolaMundo()">Mostrar Hola Estoy practicando GitHub</button>
+    <button onclick="cerrarPagina()">Cerrar Página</button>
+
+    <script>
+        function mostrarHolaMundo() {
+            alert('Hola Mundo');
+            document.body.style.backgroundColor = 'lightblue';
+            document.body.style.color = 'darkblue';
+        }
+
+        function cerrarPagina() {
+            window.close();
+        }
+    </script>
+
+</body>
+</html>
