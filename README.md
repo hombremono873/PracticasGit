@@ -1,6 +1,6 @@
 # Proyecto de Simulación
 
-![tomado de internet](C:/Users/7OMAR TORRES/Desktop/FabricaEscuela/logo.avif)
+![tomado de internet](logo.avif)
 
 ¡Bienvenido al Proyecto de Simulación!
 
